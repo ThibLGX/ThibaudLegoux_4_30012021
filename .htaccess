@@ -1,4 +1,4 @@
-Redirect 301 /https://thiblgx.github.io/ThibaudLegoux_4_30012021/ https://www.thiblgx.github.io/ThibaudLegoux_4_30012021/
+RedirectPermanent   /https://www.thiblgx.github.io/ThibaudLegoux_4_30012021/   https://thiblgx.github.io/ThibaudLegoux_4_30012021/
 
 <IfModule mod_expires.c>
 ExpiresActive On
