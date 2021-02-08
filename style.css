@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, 0.452);
 }
 
 .d-bloc button:hover {
@@ -361,7 +361,10 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-
+.bloc-lg .portfolio-row img{
+    margin-left: auto;
+    margin-right: auto;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -771,15 +774,18 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #cf6534;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f8f8f8!important;
+}
+ .hero-bloc-text{
+    color: #cf6534!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #cf6534;
     color: #FFFFFF!important;
 }
 
@@ -1039,4 +1045,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.cit1{
+    color: red;
 }

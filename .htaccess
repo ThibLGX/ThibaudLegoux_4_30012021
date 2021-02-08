@@ -1,4 +1,4 @@
-RedirectPermanent   /https://www.thiblgx.github.io/ThibaudLegoux_4_30012021/   https://thiblgx.github.io/ThibaudLegoux_4_30012021/
+RedirectPermanent   /ThibaudLegoux_4_30012021/   https://www.thiblgx.github.io/ThibaudLegoux_4_30012021/
 
 # BEGIN Cache-Control Headers
 <IfModule mod_headers.c>
