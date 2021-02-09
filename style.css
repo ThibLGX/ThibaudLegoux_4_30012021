@@ -1082,7 +1082,7 @@ h4 {
     width: 300px;
 }
 .col-sm-6 textarea{
-    width: 500px;
+    width: 90%;
     height: 150px;
 }
 .navbar{
@@ -1119,9 +1119,16 @@ h4 {
        
     }
 }
+
 #bloc-8{
     background-color: #F3976C;
 }
 #bloc-0, #bloc-6, #bloc-7, #bloc-8{
     padding: 0;
+}
+.title-banner{
+    display: flex;
+}
+.question{
+    display: flex;
 }
